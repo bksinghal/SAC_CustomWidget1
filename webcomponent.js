@@ -8,7 +8,7 @@
 // customElements.define(name, constructor, options);
 // It defines a new custom element, by inheriting from — and extending — built-in HTML elements
 //I the below, instead of constructor, the class itself has been defined,
-    customElements.define('com-sap-sample-helloworld1', class HelloWorld1 extends HTMLElement {
+    customElements.define('com-sap-sample-helloworld1bk', class HelloWorld1 extends HTMLElement {
 
 
 		constructor() {
